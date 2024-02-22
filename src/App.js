@@ -11,7 +11,7 @@ function App() {
         <SpeedInsights />
         <Analytics />
         <Routes>
-          <Route path='/' element={<h1>homeee</h1>} />
+          <Route path='/' element={<h1>hom</h1>} />
           <Route path='/about' element={<h1>about</h1>} />
           <Route path='/rec' element={<h1>rec</h1>} />
         </Routes>
